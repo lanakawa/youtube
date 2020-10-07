@@ -1,0 +1,30 @@
+#top-menu {
+    background-color: #1b1c1d;
+    box-shadow: none;
+    border: none;
+    margin-top: 0px;
+    margin-bottom: -20px;
+}
+body {
+    background-color: #1b1c1d;
+    margin-right: fill;
+}
+
+#left-sidebar{
+    padding-top: 30px;
+}
+
+#inner {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+#second-menu {
+    margin-left: 100px;
+}
+
+#buttons {
+    overflow-y: scroll;
+    color: rgba(33, 33, 33, 0.95);
+}
